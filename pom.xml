@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.scalesec</groupId>
-	<artifactId>vulnado</artifactId>
+	<artifactId>sonar.intergratingjinkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>vulnado</name>
+	<name>intergratingjinkins</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
